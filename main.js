@@ -1,4 +1,4 @@
-let firstName = "Mitchelle";
-let lastName = "Andy";
+var firstName = "Mitchelle";
+var lastName = "Andy";
 
 document.getElementById("name").textContent = firstName + " " + lastName;
